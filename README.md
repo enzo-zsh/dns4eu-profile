@@ -1,4 +1,4 @@
-# dns4eu-profile
+# dns4eu-profile (Work In progress)
 DNS4EU profiles for iOS / iPadOS and macOS
 
 ## DNS-over-HTTPS (DoH)
